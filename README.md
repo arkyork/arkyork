@@ -7,6 +7,8 @@
   <br/>
 
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkyork&theme=2077)
+
+![summary](https://github-readme-stats.vercel.app/api/top-langs/?username=arkyork&layout=compact)
 </div>
 
 
