@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img src="	https://github-readme-activity-graph.vercel.app/graph?username=arkyork&theme=github" height="150"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkyork&theme=github" height="150"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkyork&layout=compact" height="150"/>
