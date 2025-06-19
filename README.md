@@ -51,5 +51,5 @@
 </tr>
 </table>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=arkyork&theme=gruvbox&no-frame=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=arkyork&theme=algolia&no-frame=true)
 
