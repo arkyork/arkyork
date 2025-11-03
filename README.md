@@ -1,7 +1,7 @@
 ## Hi there
 Thanks for visiting my profile!   
 I'm majoring in Information Technology and researching Large Language Models (LLMs).   
-My main interests include DPO, RLHF, alignment, and knowledge editing.   
+My main interests include DPO, RLHF, alignment,diffusion language model and knowledge editing.   
 
 ## Certificates & Scores
 - Fundamental Information Technology Engineer Examination(基本情報技術者試験)
