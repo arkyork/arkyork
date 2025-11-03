@@ -1,7 +1,7 @@
 ## Hi there
-Thanks for visiting my profile! 
-I'm majoring in Information Technology and researching Large Language Models (LLMs). 
-My main interests include DPO, RLHF, alignment, and knowledge editing. 
+Thanks for visiting my profile!   
+I'm majoring in Information Technology and researching Large Language Models (LLMs).   
+My main interests include DPO, RLHF, alignment, and knowledge editing.   
 
 ## GitHub Stats
 
