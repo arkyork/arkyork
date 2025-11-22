@@ -1,4 +1,4 @@
-## Hi there
+## Hi!
 Thanks for visiting my profile!   
 I'm majoring in Information Technology and researching Large Language Models (LLMs).   
 
