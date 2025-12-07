@@ -2,6 +2,10 @@
 Thanks for visiting my profile!   
 I'm majoring in Information Technology and researching Large Language Models (LLMs).   
 
+## My project
+
+[My project](https://github.com/arkyork/my-project/blob/main/README.md)
+
 ## My main interests
 
 - alignment (DPO, RLHF)
